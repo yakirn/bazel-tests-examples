@@ -1,0 +1,2 @@
+test --test_output=errors
+test --test_timeout=1,10,180,600
